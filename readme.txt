@@ -1,3 +1,2 @@
 Git is a distributed version control system.
-Git is free software.
-It's ok, never mind.
+Git is free software distributied under GPL.
